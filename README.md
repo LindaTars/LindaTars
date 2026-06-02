@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgs.search.brave.com/2aXPvNrFnYUokND4pw-Zw28gf_MIpz2YcrU4xISfzcw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODM1/MTE1My5naWY.gif" width="100%" />
+<img src="https://imgs.search.brave.com/hVvECPPGhIJZNnH2GE1AHbDIIJSkSK2o_ufVmLTg8rQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvMTcx/MTU5My5naWY.gif" width="100%" />
 
 # 👩‍💻 Hello, I'm Linda
 
